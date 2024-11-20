@@ -1,4 +1,4 @@
-# Project Name  
+# Anime Watch List  
 
 Welcome to the **Anime Watch List** repository! This is the main branch, containing the latest stable version of the project.  
 

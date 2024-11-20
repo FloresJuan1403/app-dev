@@ -1,6 +1,6 @@
 # Project Name  
 
-Welcome to the **Project Name** repository! This is the main branch, containing the latest stable version of the project.  
+Welcome to the **Anime Watch List** repository! This is the main branch, containing the latest stable version of the project.  
 
 ## 📄 About This Project  
 
